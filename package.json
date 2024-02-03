@@ -1,0 +1,7 @@
+{
+  "name": "my-js-interpreter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Levi Eber",
+  "type": "module"
+}
